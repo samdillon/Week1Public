@@ -1,4 +1,4 @@
-# Week 1 Challenge Project
+1# Week 1 Challenge Project
 Hypothyroidism is a very serious, debilitating condition primarily caused by an underactive thyroid gland.
 
 ## Background
